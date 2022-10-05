@@ -1,0 +1,22 @@
+a{
+color:darkorange;}
+a,body{font-family: sans-serif;
+width:700px;
+height: auto;}
+body{background-color: lightgoldenrodyellow;}
+
+.homepage{
+   font-size: x-large;
+   
+}
+
+#one{color: orangered}
+h1,h3,p{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: orangered;}
+
+ul,ol{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+#one{
+float:inline-start ;}
+#gif{width: 50px;float:inline-start;
+height: 50px;}
